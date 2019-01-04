@@ -1,0 +1,43 @@
+img {
+	width: 200px;
+	height: 250px;
+	border-radius: 100%;
+	float: left;
+	margin-right: 25px;
+}
+.Major-Info {
+	padding: 5px 0 82px 5px;
+	margin: 0;
+}
+
+body {
+	margin: 0 0 30 7px;
+
+}
+
+table {
+	font-size: 18px;
+}
+
+button {
+	background-color: #6CBBB3;
+	padding: 8px;
+	font-size: 18px;
+	text-align: center;
+}
+
+h1 {
+	color: #34A7B2;
+}
+
+h2 {
+	color: #34A7B2;
+}
+
+hr {
+	border: dashed;
+	height: 0;
+	
+	color: #FFB4AC;
+	border-radius: 10%;
+}
